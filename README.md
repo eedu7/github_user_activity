@@ -1,6 +1,6 @@
 # Github User Activity
 
-Sample solution for the [Github-User-Activity]([https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/github-user-activity)) challenge from [roadmap.sh](https://roadmap.sh/).
+Sample solution for the [Github User Activity](https://roadmap.sh/projects/github-user-activity) challenge from [roadmap.sh](https://roadmap.sh/).
 
 ## How to run
 
